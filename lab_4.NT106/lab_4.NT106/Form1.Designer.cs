@@ -42,7 +42,7 @@
             buttonExcercise1.Name = "buttonExcercise1";
             buttonExcercise1.Size = new Size(94, 29);
             buttonExcercise1.TabIndex = 0;
-            buttonExcercise1.Text = "button1";
+            buttonExcercise1.Text = "bài tập 1";
             buttonExcercise1.UseVisualStyleBackColor = true;
             // 
             // button4
@@ -51,7 +51,7 @@
             button4.Name = "button4";
             button4.Size = new Size(94, 29);
             button4.TabIndex = 2;
-            button4.Text = "button4";
+            button4.Text = "bài tập 3";
             button4.UseVisualStyleBackColor = true;
             // 
             // button6
@@ -60,7 +60,7 @@
             button6.Name = "button6";
             button6.Size = new Size(94, 29);
             button6.TabIndex = 4;
-            button6.Text = "button6";
+            button6.Text = "bài tập 5";
             button6.UseVisualStyleBackColor = true;
             // 
             // buttonExcercise2
@@ -69,7 +69,7 @@
             buttonExcercise2.Name = "buttonExcercise2";
             buttonExcercise2.Size = new Size(94, 29);
             buttonExcercise2.TabIndex = 1;
-            buttonExcercise2.Text = "button2";
+            buttonExcercise2.Text = "bài tập 2";
             buttonExcercise2.UseVisualStyleBackColor = true;
             // 
             // button3
@@ -78,7 +78,7 @@
             button3.Name = "button3";
             button3.Size = new Size(94, 29);
             button3.TabIndex = 3;
-            button3.Text = "button3";
+            button3.Text = "bài tập 4";
             button3.UseVisualStyleBackColor = true;
             // 
             // button5
@@ -87,8 +87,9 @@
             button5.Name = "button5";
             button5.Size = new Size(94, 29);
             button5.TabIndex = 5;
-            button5.Text = "button5";
+            button5.Text = "bài tập 6";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // Form1
             // 
