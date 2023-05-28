@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tYBVPfI0bkmdNx8NspzCbu4fefW4bg5uFEvBexZzpo9cw4kQ6goxAHoM/qybebX4sEi0n5GSpEelS9kszsQ3dg==",
+  "success": true,
+  "projectFilePath": "D:\\THUC HANH LTMCB\\Lab4\\Lab4\\Lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\baoho\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
