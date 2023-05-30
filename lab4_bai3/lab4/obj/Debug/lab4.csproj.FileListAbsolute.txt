@@ -1,0 +1,117 @@
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\ADMIN\source\repos\lab4\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\lab4\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\ADMIN\source\repos\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\ADMIN\source\repos\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\Fizzler.dll
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\HtmlAgilityPack.dll
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\HtmlAgilityPack.xml
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\source\repos\lab4\lab4\obj\Debug\lab4.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\lab4\lab4\obj\Debug\lab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\Aspose.HTML.dll
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\System.Drawing.Common.dll
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\System.Security.Permissions.dll
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\Aspose.HTML.xml
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\source\repos\lab4\lab4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\Aspose.HTML.dll
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\Fizzler.dll
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\HtmlAgilityPack.dll
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\System.Buffers.dll
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\System.Drawing.Common.dll
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\System.Memory.dll
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\System.Security.AccessControl.dll
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\System.Security.Permissions.dll
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\Aspose.HTML.xml
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\HtmlAgilityPack.xml
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\System.Buffers.xml
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\System.Memory.xml
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\khach\Downloads\lab4\lab4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\khach\Downloads\lab4\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+C:\Users\khach\Downloads\lab4\lab4\obj\Debug\lab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\khach\Downloads\lab4\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\khach\Downloads\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\khach\Downloads\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\khach\Downloads\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\khach\Downloads\lab4\lab4\obj\Debug\lab4.csproj.CopyComplete
+C:\Users\khach\Downloads\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\khach\Downloads\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\lab4.exe.config
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\lab4.exe
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\lab4.pdb
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\Aspose.HTML.dll
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\Fizzler.dll
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\HtmlAgilityPack.dll
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\System.Buffers.dll
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\System.Drawing.Common.dll
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\System.Memory.dll
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\System.Security.AccessControl.dll
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\System.Security.Permissions.dll
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\Aspose.HTML.xml
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\HtmlAgilityPack.xml
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\System.Buffers.xml
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\System.Memory.xml
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\obj\Debug\lab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\obj\Debug\lab4.csproj.CopyComplete
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\obj\Debug\lab4.exe
+C:\Users\baoho\OneDrive\Máy tính\lab4_bai3\lab4\obj\Debug\lab4.pdb
